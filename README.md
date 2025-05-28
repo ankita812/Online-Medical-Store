@@ -42,8 +42,7 @@ OnlineMedicalStore/
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
-
+1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/OnlineMedicalStore.git
 
